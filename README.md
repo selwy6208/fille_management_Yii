@@ -401,8 +401,3 @@ All the steps you followed above are to be followed for the Standalone usage exc
 
 ![image-preview](http://plugins.omaraslam.com/images/standalone.png)
 
-## Who do I talk to? ##
-
-* [buttflattery@hotmail.com](https://www.facebook.com/omer.aslam)
-* [buttflattery@gmail.com](https://www.facebook.com/omer.aslam)
-* [omeraslam@omaraslam.com](https://www.facebook.com/omer.aslam)
