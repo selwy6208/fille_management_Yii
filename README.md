@@ -391,13 +391,4 @@ if all above is done correctly then browse the page where you have configured an
 
 ![image-preview](http://plugins.omaraslam.com/images/config-success.png)
 
-***
-## For Standalone Usage ##
-***
-
-All the steps you followed above are to be followed for the Standalone usage excluding the steps for the Editor Confguration, go to your web application and access the following url while logged in with the admin user. 
-
-**http://yourdomain.com/filemanager/index**
-
-![image-preview](http://plugins.omaraslam.com/images/standalone.png)
 
