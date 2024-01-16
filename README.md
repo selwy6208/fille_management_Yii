@@ -223,16 +223,6 @@ as a standalone filemanager**.
 * **Editor Plugin**
 * **Standalone (For Admin Only)**
 
-***
-### As a plugin with Text Editors ###
-***
-
-**Clone or download the source files from any of the following links and unzip files anywhere on your drive.**
-
-* **[Github](https://github.com/buttflattery/idows-tinyii-filemanager)**
-* **[YiiFramework](http://www.yiiframework.com/extension/idows-tinyii-filemanager/files/idows-tinyii-filemanager.zip)**
-* **[Idowstech](http://plugins.omaraslam.com/download)**
-
 **Copy the following to the relevant directories as described below.**
 
 * _`protected/config/params.php`_ -> _`protected/config`_ _(if you have an existing `params.php` file add the contents from this file to your `params.php` file)_
